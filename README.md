@@ -1,1 +1,2 @@
-Faço software e jogos(Solo). JS(Electron), Java(JavaFX/JavaSwing), C++(GLFW/OpenGL32), Assembly(Windows 11 x64)
+Faço software e jogos(Solo). 
+JS(Electron), Java(GLFW/OpenGL32), Rust(GLFW/OpenGL32 e automações), Python(Automações simples, JSON e RequestHttps)
